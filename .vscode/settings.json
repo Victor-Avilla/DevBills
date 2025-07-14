@@ -16,3 +16,7 @@
     "editor.defaultFormatter": "biomejs.biome"
   }
 }
+
+// DB password:iV6H3TNeXDR1gXGU
+// DB user:eniff77
+// mongodb+srv://eniff77:iV6H3TNeXDR1gXGU@devbills.io4nceo.mongodb.net/DevBills?retryWrites=true&w=majority&appName=Devbills
